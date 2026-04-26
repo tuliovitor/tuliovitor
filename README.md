@@ -38,7 +38,7 @@ Tenho 22 repositórios públicos e experiência prática com **JavaScript, React
 
 | Projeto | Descrição | Stack |
 |--------|-----------|-------|
-| [**WeatherNow**](https://github.com/tuliovitor) | App mobile com API em tempo real, localização via GPS e tema visual adaptativo | React Native · Expo · OpenWeatherMap |
+| [**WeatherNow**](https://github.com/tuliovitor/weather-now) | App mobile com API em tempo real, localização via GPS e tema visual adaptativo | React Native · Expo · OpenWeatherMap |
 | [**Stranger Things Experience**](https://tuliovitor.github.io/stranger-things) | Landing page interativa com animações GSAP e transições fluidas | HTML · CSS · JS · GSAP |
 | [**TechStore**](https://tuliovitor.github.io/tech-store) | E-commerce front-end com renderização dinâmica e filtro por categoria | HTML · CSS · JavaScript |
 
