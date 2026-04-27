@@ -1,4 +1,4 @@
-<h1 align="center">Tulio Vítor</h1>
+<h1 align="center">👨🏻‍💻 Tulio Vítor</h1>
 
 <p align="center">
   <b>Desenvolvedor Front-End em formação · Transforma dados em interfaces que geram decisão</b>
