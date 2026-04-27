@@ -27,7 +27,7 @@ Tenho 22 repositórios públicos e experiência prática com **JavaScript, React
 ### 🛠️ Tecnologias e Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github,figma,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,java,git,github,figma,mysql" />
 </p>
 
 **Em evolução ativa:** TypeScript · IA aplicada ao desenvolvimento · N8N
